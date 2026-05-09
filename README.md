@@ -192,7 +192,7 @@ curl -X POST http://localhost:5000/api/backup \\
 
 ## **Lisans**
 
-| **MIT Lisansı** Copyright (c) 2025 WebArchiver Katkıda Bulunanları Bu yazılımın ve ilgili dokümantasyon dosyalarının ("Yazılım") bir kopyasını edinen herkese, Yazılımı herhangi bir kısıtlama olmaksızın kullanma, kopyalama, değiştirme, birleştirme, yayımlama, dağıtma, alt lisanslama ve/veya satma hakları da dahil olmak üzere ücretsiz olarak izin verilmektedir. Yazılımın tüm kopyalarına veya önemli bölümlerine yukarıdaki telif hakkı bildirimi ve bu izin bildirimi dahil edilmelidir. YAZILIM "OLDUĞU GİBİ" SAĞLANMAKTADIR; AÇIK VEYA ZIMNİ HERHANGİ BİR GARANTİ VERİLMEMEKTEDİR. HİÇBİR DURUMDA YAZARLAR VEYA TELİF HAKKI SAHİPLERİ HERHANGİ BİR TALEP, HASAR VEYA DİĞER YÜKÜMLÜLÜKLERDEN SORUMLU TUTULAMAZ. |
+| **MIT Lisansı** Copyright (c) 2025 PiWebArchiver Katkıda Bulunanları Bu yazılımın ve ilgili dokümantasyon dosyalarının ("Yazılım") bir kopyasını edinen herkese, Yazılımı herhangi bir kısıtlama olmaksızın kullanma, kopyalama, değiştirme, birleştirme, yayımlama, dağıtma, alt lisanslama ve/veya satma hakları da dahil olmak üzere ücretsiz olarak izin verilmektedir. Yazılımın tüm kopyalarına veya önemli bölümlerine yukarıdaki telif hakkı bildirimi ve bu izin bildirimi dahil edilmelidir. YAZILIM "OLDUĞU GİBİ" SAĞLANMAKTADIR; AÇIK VEYA ZIMNİ HERHANGİ BİR GARANTİ VERİLMEMEKTEDİR. HİÇBİR DURUMDA YAZARLAR VEYA TELİF HAKKI SAHİPLERİ HERHANGİ BİR TALEP, HASAR VEYA DİĞER YÜKÜMLÜLÜKLERDEN SORUMLU TUTULAMAZ. |
 | - |
 
 
