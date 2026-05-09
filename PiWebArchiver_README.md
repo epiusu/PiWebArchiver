@@ -1,6 +1,5 @@
-**PiWebArchiver**
+**PiWebArchiver** - **Web Sayfası Yedekleme Aracı**
 
-Web Sayfası Yedekleme Aracı
 
 | Versiyon: 1.0.0 | Lisans: MIT | Python 3.10+  |  Flask |
 | - | - | - |
